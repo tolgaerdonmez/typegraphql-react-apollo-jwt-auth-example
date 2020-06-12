@@ -1,0 +1,26 @@
+nav {
+  width: 100%;
+  ul {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    li {
+      display: inline;
+      margin: 0 10px;
+      a {
+        color: black;
+        font-weight: 600;
+      }
+    }
+  }
+
+  .logout-button {
+    border: none;
+    background-color: transparent;
+    font-weight: 600;
+    color: black;
+    font-size: 1em;
+    cursor: pointer;
+  }
+}
