@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> Typegraphql, Apollo & React Appollo Client with JWT Auth
+> Typegraphql, Apollo & React Apollo Client with JWT Auth
 
 # Server
 
